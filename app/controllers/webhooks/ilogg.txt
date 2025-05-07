@@ -1,0 +1,11 @@
+Array
+(
+    [date] => 2025-01-24
+    [hour] => 13:39:48
+    [datos] => Array
+        (
+            [status] => success
+            [message] => Contactos sincronizados correctamente.
+        )
+
+)

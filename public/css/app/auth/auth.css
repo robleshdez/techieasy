@@ -1,0 +1,30 @@
+/*--------------------------------------------------------------
+# Estilos de auth
+--------------------------------------------------------------*/
+main {  
+  min-height: calc(100vh - 45px);
+}
+.login-card .card-header h1 {
+  font-weight: bold;
+  font-size: 1.4rem;
+  text-decoration: none;
+  line-height: 1;
+  margin: 0;
+}
+
+.lead {
+  font-weight: bold;
+  text-align: center;
+  font-size: 1.5rem;
+  padding-bottom: 10px;
+  line-height: 1.5;
+}
+
+.tolostp { 
+  color: var(--bs-danger); 
+}
+
+.tolostp:hover { 
+  color: var(--gf-danger-hover); 
+}
+
